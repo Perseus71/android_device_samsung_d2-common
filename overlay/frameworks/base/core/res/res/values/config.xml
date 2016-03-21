@@ -278,6 +278,7 @@
          config to 7. -->
 <!--    <integer name="config_deviceHardwareWakeKeys">65</integer>	-->
 
+
     <!-- Panel auto brightness value -->
     <!--integer name="config_panelAutoBrightnessValue">1</integer-->
 
